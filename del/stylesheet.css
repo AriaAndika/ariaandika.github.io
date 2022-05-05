@@ -1,0 +1,13 @@
+a {
+	display: block;
+	margin: 20px;
+	padding: 20px;
+
+	text-decoration: none;
+	border: 1px solid gray;
+
+}
+
+a:hover {
+	background-color: aqua;
+}
